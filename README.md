@@ -1,5 +1,5 @@
 # wordpress-rest-api
-A Headless WordPress blog application using VueJS
+A Headless WordPress blog application using VueJS + VueMaterial
 
 ![ScreenShot](https://user-images.githubusercontent.com/32665778/74142863-b2343e00-4c34-11ea-8680-0aaf1b4c3593.PNG)
 
